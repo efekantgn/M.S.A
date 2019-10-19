@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 9bc982abdb65b434f96c8a401b65d491
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1494328414906426996
+    second: john_ball_mirror_0
+  - first:
+      213: -2606192314275426646
+    second: john_ball_mirror_1
+  - first:
+      213: -3379726666917537833
+    second: john_ball_mirror_2
+  - first:
+      213: 6513254888615785480
+    second: john_ball_mirror_3
+  - first:
+      213: -8326168189491270446
+    second: john_ball_mirror_4
+  - first:
+      213: 2255136026327607644
+    second: john_ball_mirror_5
+  - first:
+      213: -5901514638682028209
+    second: john_ball_mirror_6
+  - first:
+      213: 8078791853366147735
+    second: john_ball_mirror_7
+  - first:
+      213: 9126193125739345306
+    second: john_ball_mirror_8
+  - first:
+      213: 8152484413400634524
+    second: john_ball_mirror_9
+  - first:
+      213: 5179693705326044811
+    second: john_ball_mirror_10
+  - first:
+      213: -6316119325973205103
+    second: john_ball_mirror_11
+  - first:
+      213: 135770382447992043
+    second: john_ball_mirror_12
+  - first:
+      213: 7984841678321733923
+    second: john_ball_mirror_13
+  - first:
+      213: -9019018641870105047
+    second: john_ball_mirror_14
+  - first:
+      213: -12966327711491606
+    second: john_ball_mirror_15
+  - first:
+      213: 205553245502983803
+    second: john_ball_mirror_16
+  - first:
+      213: -4635190241921709408
+    second: john_ball_mirror_17
+  - first:
+      213: -2897564607211628829
+    second: john_ball_mirror_18
+  - first:
+      213: 7532419864880590527
+    second: john_ball_mirror_19
+  - first:
+      213: -8606511429074038132
+    second: john_ball_mirror_20
+  - first:
+      213: -513892288766861569
+    second: john_ball_mirror_21
+  - first:
+      213: -567515127696729720
+    second: john_ball_mirror_22
+  - first:
+      213: -3817224234252571904
+    second: john_ball_mirror_23
+  - first:
+      213: 6341808479557677253
+    second: john_ball_mirror_24
+  - first:
+      213: -7023301318432521794
+    second: john_ball_mirror_25
+  - first:
+      213: 3157916017062615634
+    second: john_ball_mirror_26
+  - first:
+      213: -2067697324501836920
+    second: john_ball_mirror_27
+  - first:
+      213: 3057996549920981500
+    second: john_ball_mirror_28
+  - first:
+      213: -964425207652511805
+    second: john_ball_mirror_29
+  - first:
+      213: 7318901727973818457
+    second: john_ball_mirror_30
+  - first:
+      213: 353064377252844865
+    second: john_ball_mirror_31
+  - first:
+      213: 4831685164274218283
+    second: john_ball_mirror_32
+  - first:
+      213: -1721808673851652127
+    second: john_ball_mirror_33
+  - first:
+      213: -1166611851354208777
+    second: john_ball_mirror_34
+  - first:
+      213: 6700751607800357801
+    second: john_ball_mirror_35
+  - first:
+      213: -5298489003309520696
+    second: john_ball_mirror_36
+  - first:
+      213: 153027570343267475
+    second: john_ball_mirror_37
+  - first:
+      213: -8695519861396354064
+    second: john_ball_mirror_38
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: john_ball_mirror_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadecb33a0383164eb1c8a393221a946
+      internalID: 1494328414906426996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9e77447bf3c1540806541e2824c6df
+      internalID: -2606192314275426646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bfe93e6865aad44922d90d4142eb97
+      internalID: -3379726666917537833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c60f11e263144098b0cfc5ce9bb10
+      internalID: 6513254888615785480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbfa3eff8157eb4b85cc69a76202b5e
+      internalID: -8326168189491270446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3714e5fecf56189418587f68acf9e485
+      internalID: 2255136026327607644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55340b013741ff044b359da47fc71c00
+      internalID: -5901514638682028209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 333
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ed0d6bbeaaa94399467635a4a26aa
+      internalID: 8078791853366147735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbc0adf73a673f4cb307c05583fdc2b
+      internalID: 9126193125739345306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb1ae28af6e26d4f882e1d01a5f5671
+      internalID: 8152484413400634524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cabbdc7a7ca614faa59797a859d63d
+      internalID: 5179693705326044811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f15907c4e6a65419fcf86038166602
+      internalID: -6316119325973205103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a5715ef7c0ab45bef3005c417653a
+      internalID: 135770382447992043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecdf1e58237ade478c2db44ea6233be
+      internalID: 7984841678321733923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 251
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9789188441c864b9200423d48bcd85
+      internalID: -9019018641870105047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91204b342825e14aa2905b77f673d79
+      internalID: -12966327711491606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce681f556f2f04b956c2979478823d
+      internalID: 205553245502983803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1598fe320c0bc4dbcb1a2ecc469057
+      internalID: -4635190241921709408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78101f470f41ca45ac363d7c5b6932a
+      internalID: -2897564607211628829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fbc26fbc972134cace2d09f2473da7
+      internalID: 7532419864880590527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883cbda4fbc731409bc8138bb203733
+      internalID: -8606511429074038132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c46be8dcd4c264cb12bd2f90f5d244
+      internalID: -513892288766861569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_22
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 169
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797774250c09394e8fa83c552d865d7
+      internalID: -567515127696729720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a5001e36e846459333a86938021a4
+      internalID: -3817224234252571904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c1db77ad25554dbbadb0d520688f5
+      internalID: 6341808479557677253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048df35dd14a62e41b687a52e2a41cf3
+      internalID: -7023301318432521794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7be64eec6e68458c8de71927e0614
+      internalID: 3157916017062615634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65e717aca1f804dbc5a8c0570a62f3
+      internalID: -2067697324501836920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a82d0cbd0240448ea23780d05f3de
+      internalID: 3057996549920981500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c635e07d243b489766b2a73457507
+      internalID: -964425207652511805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_30
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 87
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead8567962353247ba8a5cfa1ca0bf0
+      internalID: 7318901727973818457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964db86432580dc429fcd91e4b5568f3
+      internalID: 353064377252844865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121ecd5d443624d458d7763f6b29f6dc
+      internalID: 4831685164274218283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86ccdfa9864004428ebfa9bb94c59ff
+      internalID: -1721808673851652127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b7d8bd9419894a975b7bb94bcd327
+      internalID: -1166611851354208777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f59ff995db9f45bee3b65db5af81b
+      internalID: 6700751607800357801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9695377a3cb5e941b010830dcf1ae8e
+      internalID: -5298489003309520696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_37
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c208686815cd4eb9b1640d7defb6a
+      internalID: 153027570343267475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: john_ball_mirror_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 5
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238b1699809050749a187c864a3f0293
+      internalID: -8695519861396354064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
