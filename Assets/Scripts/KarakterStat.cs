@@ -27,6 +27,16 @@ public class KarakterStat : MonoBehaviour
         }
     }
 
+    [System.Obsolete]
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "RegenPlace" && health<maxHealth)
+        {
+            Regen(1);
+            
+        }
+    }
+
     private void Update()
     {
         if (health > maxHealth)

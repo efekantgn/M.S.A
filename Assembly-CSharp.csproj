@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Kamera.cs" />
     <Compile Include="Assets\Scripts\KarakterKontrol.cs" />
     <Compile Include="Assets\Scripts\KarakterStat.cs" />
+    <Compile Include="Assets\Scripts\Potion.cs" />
     <None Include="Assets\Dark_Forest\about.txt" />
     <None Include="Assets\Medieval_pixel_art_asset_FREE\pixel_snapping_README.txt" />
     <Reference Include="Unity.Timeline.Editor">

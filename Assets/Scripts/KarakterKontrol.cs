@@ -72,15 +72,23 @@ public class KarakterKontrol : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        RaycastHit2D hit = Physics2D.Raycast(transform.position + offset, forward, 1.0f);
         if (collision.transform.tag == "Platform")
         {
             canJump = true;
         }
-        else if (collision.transform.tag == "Enemy")
+
+        if (collision.transform.tag == "Enemy")
         {
-            RaycastHit2D hit = Physics2D.Raycast(transform.position + offset, forward, 0.5f);
-            hit.transform.GetComponent<KarakterStat>().Damage(1);
+            RaycastHit2D raydata = Physics2D.Linecast(transform.position, transform.position + new Vector3(0.1f, 0.0f));
+            if (raydata.collider.gameObject.GetComponent<KarakterStat>() != null)
+            { //errors here
+                raydata.collider.gameObject.GetComponent<KarakterStat>().Damage(1);
+            }
+
+
         }
+        
     }
 
     private void Jump()
